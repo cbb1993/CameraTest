@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.cbb.cameratest.Camera2SurfaceView
+    <com.cbb.cameratest.CameraSurfaceView
         android:layout_gravity="center"
         android:id="@+id/camera_view"
         android:layout_width="200dp"
